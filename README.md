@@ -37,7 +37,7 @@ and create +page.svelte
 <script>
     import { page } from '$app/stores';
 </script>
-{$page.params.slug}
+{$page.params.blog_id}
 ```
 
 now let's build the project and try it
