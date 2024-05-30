@@ -1,0 +1,1 @@
+# sveltekite_dynamic_routing_spa
