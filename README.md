@@ -1,6 +1,7 @@
 # SvelteKit Dynamic Routing With adapter/static
 Let's Start By Create new sveltekit project 
 > pnpm create svelte@latest
+
 > pnpm add -D @sveltejs/adapter-static
 
 ### svelte.config.js
